@@ -40,7 +40,7 @@ usefulness: questionable, only if I specialize for relay networks/ I commonly ge
   saved time: couple of minutes  
 ###########################################################################################################
 
-name: relay cabling connection check  
+name: relay cabling check  
 tag: work process improvement  
 description:  
   purpose: in the back of shelves cables are everywhere,  
