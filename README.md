@@ -79,4 +79,9 @@ training data: obtainable with smartphone
       are the cables connected in a way that relay circuits are recognizable? 
       it might be easier to make it a one stage supervised classification task, the input is of phase one and two and the
       output is isWrong TRUE/FALSE, further search is required
+     
+personal notes:
+try 60,70,80,90,95 percent accuracies, take in account false positives/negatives
+this is a proof of concept only, thus not the photos of real equiqment, but
+for phase two a trial pad with male-male cables is used, for phase two maybe replicas
       
