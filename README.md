@@ -83,5 +83,5 @@ training data: obtainable with smartphone
 personal notes:
 try 60,70,80,90,95 percent accuracies, take in account false positives/negatives
 this is a proof of concept only, thus not the photos of real equiqment, but
-for phase two a trial pad with male-male cables is used, for phase two maybe replicas
+for phase two a trial pad with male-male cables is used, for phase two maybe replicas of the original photos
       
